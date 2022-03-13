@@ -1,0 +1,10 @@
+@import "variables";
+.feature {
+    padding: 100px 0 130px 0;
+    &-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 170px;
+    }
+}
